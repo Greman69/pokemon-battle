@@ -7342,5 +7342,15 @@
     "damage_class": "special",
     "effect": 270,
     "effect_chance": 0
-  }
-}
+  },
+  "744": {
+    "id":744,
+    "name":"Dynamax Cannon",
+    "type": 16,
+    "power": 100,
+    "accuracy": 100,
+    "pp": 5,
+    "prioity": 0,
+    "damage_class": "special",
+    "effect":1
+    "effect_chance":0
